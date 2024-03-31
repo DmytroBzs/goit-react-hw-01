@@ -1,0 +1,26 @@
+.table {
+  margin: 0 auto;
+  width: 750px;
+  height: 550px;
+  margin-top: 100px;
+  border-collapse: collapse;
+}
+.thead {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: black;
+  color: #fff;
+}
+.tableRow {
+  height: 50px;
+  width: 250px;
+}
+
+.tableItem {
+  border: 2px solid black;
+  text-align: center;
+  font-size: 20px;
+}
+.even {
+  background-color: rgb(196, 196, 196);
+}
